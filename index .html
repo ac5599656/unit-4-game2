@@ -1,0 +1,35 @@
+<!DOCTYPE html/>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>unit-4-game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="./assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="./assets/css/reset.css" />
+
+</head>
+
+<body>
+    <header>
+        <h1 id="title">Crystal Collector</h1>
+    </header>
+    <!-- This will be used to update scores and generate random number for the target number. -->
+    <div id="score">
+        <h2 id="letter">Number to Guess: <span id="number-to-guess"></span></h2>
+        <h2 id="letter">Wins: <span id="wins"></span></h2>
+        <h2 id="letter">Loss: <span id="loss"></span></h2>
+        <h2 id="letter">Current Score: <span id="current-score"></span></h2>
+    </div>
+    <!-- Note that this div is now empty. We will fill it dynamically -->
+    <div id="crystals">
+    </div>
+
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="./assets/javascript/game.js" type="text/javascript"></script>
+</body>
+
+</html>
