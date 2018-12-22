@@ -1,4 +1,4 @@
-# Trivia
+# Crystal Game
 
 ## URL
 
@@ -10,7 +10,6 @@ https://ac5599656.github.io/TriviaGame//
 
 
 ## Summary
-
 The Crystal Game app allows user to click each crystal picture to increase the number to the app number.
 
 ## More Description
