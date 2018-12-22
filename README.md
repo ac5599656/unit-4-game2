@@ -6,7 +6,7 @@ https://ac5599656.github.io/unit-4-game2/
 
 ## Screenshots
 
-![](assets/images/landing_page.png)
+![](/assets/images/landing_page.png)
 
 
 ## Summary
