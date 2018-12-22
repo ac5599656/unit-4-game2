@@ -2,7 +2,7 @@
 
 ## URL
 
-https://ac5599656.github.io/TriviaGame//
+https://ac5599656.github.io/unit-4-game2/
 
 ## Screenshots
 
